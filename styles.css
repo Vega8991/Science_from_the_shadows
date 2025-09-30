@@ -1,0 +1,30 @@
+.simple-footer {
+  background-color: #d4dde2;
+  color: #000;
+  padding: 10px 20px;
+  font-family: Arial, sans-serif;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr; /* izquierda - centro - derecha */
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer-icon {
+  height: 48px; 
+  width: 48px;
+}
+
+.footer-center {
+  text-align: center;
+  font-weight: bold;
+}
+
+.footer-right {
+  color: #4F4F4F;        
+  font-size: 0.85rem;
+  text-align: right;
+}
