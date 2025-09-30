@@ -7,19 +7,50 @@
 .navbar-brand.logo {
     display: flex;
     align-items: center;
-    gap: 10px; /* Espacio entre elementos */
+    gap: 10px; 
 }
 
 .navbar-brand.logo img {
-    height: 40px; /* Ajusta según necesites */
+    height: 40px; 
     width: auto;
 }
 
 .navbar-brand.logo h1 {
-    margin: 0; /* Elimina márgenes del h1 */
-    font-size: 1.5rem; /* Ajusta el tamaño si es necesario */
+    margin: 0; 
+    font-size: 1.5rem; 
 }
 
 .navbar-brand.logo i {
-    font-size: 1.5rem; /* Ajusta el tamaño del ícono */
+    font-size: 1.5rem; 
+}
+
+.simple-footer {
+  background-color: #d4dde2;
+  color: #000;
+  padding: 10px 20px;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer-icon {
+  height: 48px; 
+  width: 48px;
+}
+
+.footer-center {
+  text-align: center;
+  font-weight: bold;
+}
+
+.footer-right {
+  color: #777;
+  font-size: 0.85rem;
+  font-style: italic;
+  text-align: right;
 }
