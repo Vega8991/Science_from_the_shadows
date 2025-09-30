@@ -149,14 +149,14 @@
 .card-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
+    gap: 50px;
     margin: 34px;
 }
 
 .card-custom {
     background-color: transparent;
-    perspective: 1000px;
-    height: 550px;
+    perspective: 800px;
+    height: 450px;
 }
 
 .card-custom.flipped .frontface {
@@ -201,22 +201,23 @@
 }
 
 .card-image {
-    width: 100%;
-    height: 180px;
+    width: 214px;
+    height: 196.755px;
     background: #fff;
-    border-radius: 10px;
+    border-radius: 15px;
     margin-bottom: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    border: 3px solid #d0d5d9;
+    border: none;
 }
 
 .card-image img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    border-radius: 15px;
 }
 
 .card-description {
