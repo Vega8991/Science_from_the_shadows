@@ -358,9 +358,6 @@ textarea {
 
 .content-wrapper {
     max-width: 1200px;
-    /* ancho máximo para que no quede estirado */
     margin: 0 auto;
-    /* centra el bloque */
     padding: 0 20px;
-    /* añade márgenes laterales */
 }
