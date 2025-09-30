@@ -7,19 +7,19 @@
 .navbar-brand.logo {
     display: flex;
     align-items: center;
-    gap: 10px; /* Espacio entre elementos */
+    gap: 10px;
 }
 
 .navbar-brand.logo img {
-    height: 40px; /* Ajusta según necesites */
+    height: 40px;
     width: auto;
 }
 
 .navbar-brand.logo h1 {
-    margin: 0; /* Elimina márgenes del h1 */
-    font-size: 1.5rem; /* Ajusta el tamaño si es necesario */
+    margin: 0;
+    font-size: 1.5rem;
 }
 
 .navbar-brand.logo i {
-    font-size: 1.5rem; /* Ajusta el tamaño del ícono */
+    font-size: 1.5rem;
 }
