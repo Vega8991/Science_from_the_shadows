@@ -8,8 +8,8 @@ The project aims to create a digital "Hall of the Forgotten" where these remarka
 
 ## Members and Roles
 
-| Name | Role | Responsibilities |
-|------|------|------------------|
+| Name | Role |
+|------|------|
 | [Alexandru Nechita] | Product Owner 
 | [Manuel Vega] | Scrum Master
 | [Álvaro Rodríguez] | Graphic Designer
@@ -23,6 +23,7 @@ The project aims to create a digital "Hall of the Forgotten" where these remarka
 ### Hall of the Forgotten
 ![Hall of the Forgotten](https://res.cloudinary.com/diycpogap/image/upload/v1759301725/Main_section_re0jfr.png)
 
+### Hall of the Forgotten Flipped
 ![Hall of the Forgotten Flipped](https://res.cloudinary.com/diycpogap/image/upload/v1759301726/Proyecto_nuevo_15_eh7vam.png)
 
 ### Contact Form
