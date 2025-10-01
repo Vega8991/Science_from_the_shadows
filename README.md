@@ -10,10 +10,10 @@ The project aims to create a digital "Hall of the Forgotten" where these remarka
 
 | Name | Role |
 |------|------|
-| [Alexandru Nechita] | Product Owner 
-| [Manuel Vega] | Scrum Master
-| [Álvaro Rodríguez] | Graphic Designer
-| [Álvaro Sánchez] | Frontend Developer
+| Alexandru Nechita | Product Owner 
+| Manuel Vega | Scrum Master
+| Álvaro Rodríguez | Graphic Designer
+| Álvaro Sánchez | Frontend Developer
 
 ## Screenshots
 
